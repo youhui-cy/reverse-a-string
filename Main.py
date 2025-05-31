@@ -22,4 +22,6 @@ if method == "join":
     reverse_and_join(text)
 if method == "loop":
     loop(text)
+else:
+    print("Sorry, you got to enter one of the three. Good Bye!")
 
